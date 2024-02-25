@@ -7,6 +7,10 @@
         {
             "key":"THIS_IS_MY_SECOND_KEY",
             "value":"this is second test in english"
+        },
+        {
+            "key":"Loading",
+            "value":"Loading....."
         }
     ]
 }
