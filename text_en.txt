@@ -2,11 +2,11 @@
     "items" :[
         {
             "key":"THIS_IS_MY_FIRST_KEY",
-            "value":"تجربة للخط بالعربي"
+            "value":"this is a test in english"
         },
         {
             "key":"THIS_IS_MY_SECOND_KEY",
-            "value":"التجربة الثانية باللغة العربية"
+            "value":"this is second test in english"
         }
     ]
 }
