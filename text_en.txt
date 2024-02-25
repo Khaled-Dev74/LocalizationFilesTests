@@ -2,11 +2,11 @@
     "items" :[
         {
             "key":"THIS_IS_MY_FIRST_KEY",
-            "value":"Test1"
+            "value":"this is a test in english"
         },
         {
             "key":"THIS_IS_MY_SECOND_KEY",
-            "value":"Test2"
+            "value":"this is second test in english"
         }
     ]
 }
