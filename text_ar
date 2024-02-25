@@ -1,0 +1,12 @@
+{
+    "items" :[
+        {
+            "key":"THIS_IS_MY_FIRST_KEY",
+            "value":"تجربة للخط بالعربي"
+        },
+        {
+            "key":"THIS_IS_MY_SECOND_KEY",
+            "value":"التجربة الثانية باللغة العربية"
+        }
+    ]
+}
