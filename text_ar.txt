@@ -7,6 +7,11 @@
         {
             "key":"THIS_IS_MY_SECOND_KEY",
             "value":"التجربة الثانية باللغة العربية"
+        },
+        {
+            "key":"Loading",
+            "value":"تحميل....."
         }
+
     ]
 }
